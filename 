@@ -1,0 +1,53 @@
+[33mcommit a97b6c01546f489349dbd41908c14a8df938bb96[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Fri Jul 6 13:43:24 2018 -0400
+
+    adjusting media query
+
+[33mcommit 67e865ab3b48f8f9807f694879b9983d60ecddc1[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Fri Jul 6 01:35:40 2018 -0400
+
+    updating
+
+[33mcommit 3adc74e6faa0676924cf04739fe91a6192850ec3[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Thu Jul 5 15:22:23 2018 -0400
+
+    updating
+
+[33mcommit 58ba0efa7450b55302680ba5c381c3300d4d1124[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Tue Jul 3 20:20:34 2018 -0400
+
+    styling
+
+[33mcommit 1d4aa08356af23780b1963867078ada1b74ce773[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Mon Jul 2 23:46:18 2018 -0400
+
+    adding active nav bar class to proper pages
+
+[33mcommit 013a20a96e4eef632fe789898847466d93505fdb[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Sun Jul 1 23:54:21 2018 -0400
+
+    fixing bottom border bug, adding name and nav bar to contact and portfolio
+
+[33mcommit d8f1860ddb8aa51ba80f7e31b9cffc83555a9173[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Sun Jul 1 01:11:04 2018 -0400
+
+    building index.html page
+
+[33mcommit c0bf715ec740c4db81338929fbfce08cf695471c[m
+Author: Odin Almighty <36708782+Treybrewer@users.noreply.github.com>
+Date:   Sat Jun 30 23:11:02 2018 -0400
+
+    adding index.html
+
+[33mcommit b38327639b9dafe4c8fe99ad464734e77200abd9[m
+Author: Treybrewer <36708782+Treybrewer@users.noreply.github.com>
+Date:   Sat Jun 30 23:07:58 2018 -0400
+
+    Initial commit
